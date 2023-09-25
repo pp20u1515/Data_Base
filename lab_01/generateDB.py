@@ -16,26 +16,28 @@ def generateUsers():
     file = open('users.csv', 'w')
 
     for index in range(MAX_LEN):
-        line = "{0};{1};{2};{3};{4}\n".format(
+        line = "{0};{1};{2};{3};{4};{5};{6}\n".format(
             faker.name(),
+            faker.last_name(),
             faker.ascii_email(),
             faker.password(),
             faker.date(),
-            faker.city())
+            faker.city(),
+            faker.date())
         
         file.write(line)
     file.close()
 
-def generateConversations():
+def generateMembers():
     faker = Faker()
-    file = open('conversations.csv', 'w')
+    file = open('chatMembers.csv', 'w')
 
     for index in range(MAX_LEN):
         line = "{0};{1};{2};{3}\n".format(
             faker.name(),
             faker.word(),
-            index,
-            faker.date())
+            faker.boolean(),
+            faker.boolean())
         
         file.write(line)
     file.close()
@@ -57,23 +59,23 @@ def generateMessages():
         file.write(line)
     file.close()
 
-def generateContacts():
+def generateChats():
     faker = Faker()
-    file = open('contacts.csv', 'w')
+    file = open('chats.csv', 'w')
 
     for index in range(MAX_LEN):
         line = "{0};{1};{2}\n".format(
-            index,
-            faker.random_int(0, 1000),
-            faker.date())
+            faker.name(),
+            faker.date(),
+            faker.random_int(0, 1000))
         
         file.write(line)
     file.close()    
 
 def main():
     generateUsers()
-    generateConversations()
+    generateMembers()
     generateMessages()
-    generateContacts()
+    generateChats()
 
 main()
