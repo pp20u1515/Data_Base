@@ -13,53 +13,51 @@ def getWords(https):
 
 WORDS = getWords("https://www.mit.edu/~ecprice/wordlist.10000")
 
-def generateWorks():
+def generateAnimal():
     faker = Faker()
-    file = open('typesWork.csv', 'w')
+    file = open('animal.csv', 'w')
 
     for index in range(MAX_LEN + 1):
         line = "{0};{1};{2};{3}\n".format(
             index,
+            faker.name(),
             faker.word(),
-            faker.word(),
-            faker.word())
+            faker.name())
         
         file.write(line)
     file.close()
 
-def generateSender():
+def generateSickness():
     faker = Faker()
-    file = open('sender.csv', 'w')
+    file = open('sickness.csv', 'w')
 
     for index in range(MAX_LEN + 1):
-        line = "{0};{1};{2};{3};{4}\n".format(
+        line = "{0};{1};{2};{3}\n".format(
             index,
             faker.name(),
-            faker.date(),
-            random.randint(1, 20),
-            random.randint(1, 1000),)
+            faker.word(),
+            faker.word())
         
         file.write(line)
     file.close()    
 
-def generateOrder():
+def generateOwners():
     faker = Faker()
-    file = open('order.csv', 'w')
+    file = open('owners.csv', 'w')
 
     for index in range(MAX_LEN + 1):
-        line = "{0};{1};{2};{3};{4}\n".format(
+        line = "{0};{1};{2};{3}\n".format(
             index,
             faker.name(),
-            faker.date(),
-            random.randint(1, 20),
-            random.randint(1000, 2000))
+            faker.address(),
+            faker.phone())
         
         file.write(line)
     file.close()           
 
 def main():
-   generateWorks()
-   generateOrder()
-   generateSender()
+   generateAnimal()
+   generateSickness()
+   generateOwners()
 
 main()

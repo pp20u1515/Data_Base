@@ -1,0 +1,312 @@
+[
+    {
+        "userid": 2,
+        "firstname": "Ryan Henry",
+        "lastname": "Bell",
+        "email": "egonzalez@mendez.com",
+        "userpassword": "f71i!N)k^t",
+        "dateofbirthday": "2020-05-14",
+        "usercity": "North Abigailberg",
+        "userdateregistration": "1984-05-31"
+    },
+    {
+        "userid": 3,
+        "firstname": "Pam Mitchell",
+        "lastname": "Jenkins",
+        "email": "sean10@hotmail.com",
+        "userpassword": "Y1SSJlor%s",
+        "dateofbirthday": "1979-03-17",
+        "usercity": "East Timothychester",
+        "userdateregistration": "2007-05-26"
+    },
+    {
+        "userid": 4,
+        "firstname": "John Lewis",
+        "lastname": "Fitzpatrick",
+        "email": "mcmahonjoshua@yahoo.com",
+        "userpassword": "^SD7+QpPq&",
+        "dateofbirthday": "1997-07-13",
+        "usercity": "Pamelabury",
+        "userdateregistration": "1984-08-23"
+    },
+    {
+        "userid": 6,
+        "firstname": "Scott Jacobs",
+        "lastname": "Peterson",
+        "email": "dflores@martinez.com",
+        "userpassword": "$52CbNwqh0",
+        "dateofbirthday": "1980-09-05",
+        "usercity": "Jonesborough",
+        "userdateregistration": "1996-03-02"
+    },
+    {
+        "userid": 7,
+        "firstname": "James Smith MD",
+        "lastname": "Floyd",
+        "email": "ashleykelly@lewis-hunt.biz",
+        "userpassword": "gNA1sHyY$8",
+        "dateofbirthday": "2005-11-27",
+        "usercity": "Jenniferton",
+        "userdateregistration": "1981-05-28"
+    },
+    {
+        "userid": 8,
+        "firstname": "Lisa Walker",
+        "lastname": "Malone",
+        "email": "edward23@miller.com",
+        "userpassword": "*yW1lR9y^m",
+        "dateofbirthday": "1999-06-09",
+        "usercity": "Lopezshire",
+        "userdateregistration": "2001-11-03"
+    },
+    {
+        "userid": 9,
+        "firstname": "Mrs. Kelsey Reed",
+        "lastname": "Conway",
+        "email": "marcushuffman@tapia.com",
+        "userpassword": "(*Wsub*0I9",
+        "dateofbirthday": "1999-03-07",
+        "usercity": "Port Deannamouth",
+        "userdateregistration": "2006-11-24"
+    },
+    {
+        "userid": 11,
+        "firstname": "Eric Lewis",
+        "lastname": "Nguyen",
+        "email": "laurenwalls@hotmail.com",
+        "userpassword": "_8av14Ou(J",
+        "dateofbirthday": "2012-04-18",
+        "usercity": "Hallview",
+        "userdateregistration": "1972-02-29"
+    },
+    {
+        "userid": 12,
+        "firstname": "Manuel Morales",
+        "lastname": "Velasquez",
+        "email": "humphreywilliam@davis.com",
+        "userpassword": "p_0aRr!26z",
+        "dateofbirthday": "2007-08-23",
+        "usercity": "East Kaitlynview",
+        "userdateregistration": "1978-09-12"
+    },
+    {
+        "userid": 13,
+        "firstname": "Melissa Garcia",
+        "lastname": "Campbell",
+        "email": "qwilliamson@gmail.com",
+        "userpassword": "qAFQRquF(2",
+        "dateofbirthday": "1973-07-10",
+        "usercity": "Nguyenton",
+        "userdateregistration": "2021-07-05"
+    },
+    {
+        "userid": 14,
+        "firstname": "Patricia Watkins",
+        "lastname": "Mitchell",
+        "email": "linda58@taylor.com",
+        "userpassword": "@4&IGl3$$h",
+        "dateofbirthday": "2023-03-27",
+        "usercity": "Laceychester",
+        "userdateregistration": "1993-01-27"
+    },
+    {
+        "userid": 16,
+        "firstname": "Jonathan James",
+        "lastname": "Meadows",
+        "email": "jacobsnathan@hotmail.com",
+        "userpassword": "%^10DWc!uG",
+        "dateofbirthday": "2012-11-24",
+        "usercity": "Port Ryan",
+        "userdateregistration": "1988-11-28"
+    },
+    {
+        "userid": 17,
+        "firstname": "Kendra Johnson",
+        "lastname": "Hall",
+        "email": "bpeterson@tyler.com",
+        "userpassword": "Z!Y7NYd%hm",
+        "dateofbirthday": "2010-11-06",
+        "usercity": "South Amandaside",
+        "userdateregistration": "2009-06-11"
+    },
+    {
+        "userid": 18,
+        "firstname": "William Mcdonald",
+        "lastname": "Hall",
+        "email": "burtonjeffrey@wells.com",
+        "userpassword": "H4gZFh^%&t",
+        "dateofbirthday": "2015-11-17",
+        "usercity": "Lake James",
+        "userdateregistration": "1997-03-28"
+    },
+    {
+        "userid": 19,
+        "firstname": "Corey Christensen",
+        "lastname": "Saunders",
+        "email": "christina39@kelly.com",
+        "userpassword": "yg%3Jmriro",
+        "dateofbirthday": "1987-10-31",
+        "usercity": "Lake Heatherchester",
+        "userdateregistration": "2004-02-29"
+    },
+    {
+        "userid": 21,
+        "firstname": "Joseph Vargas",
+        "lastname": "Ramos",
+        "email": "lozanomegan@cervantes-sawyer.com",
+        "userpassword": "^0*&8KGag_",
+        "dateofbirthday": "2016-07-17",
+        "usercity": "Michaelview",
+        "userdateregistration": "1994-08-06"
+    },
+    {
+        "userid": 22,
+        "firstname": "Denise Lee",
+        "lastname": "May",
+        "email": "reynoldslaura@roberts-mitchell.com",
+        "userpassword": "Av06(Ypyq^",
+        "dateofbirthday": "1992-06-29",
+        "usercity": "North Michaelton",
+        "userdateregistration": "1987-01-01"
+    },
+    {
+        "userid": 23,
+        "firstname": "Margaret Hill",
+        "lastname": "Lynch",
+        "email": "sarahanderson@guzman.com",
+        "userpassword": "_4Hz+$oPtm",
+        "dateofbirthday": "1973-06-23",
+        "usercity": "East Sharon",
+        "userdateregistration": "1999-06-10"
+    },
+    {
+        "userid": 24,
+        "firstname": "Catherine Lopez",
+        "lastname": "Miller",
+        "email": "john39@hotmail.com",
+        "userpassword": "_1CroiNPg7",
+        "dateofbirthday": "2012-06-12",
+        "usercity": "Caitlynhaven",
+        "userdateregistration": "1999-08-11"
+    },
+    {
+        "userid": 26,
+        "firstname": "Patricia Marshall",
+        "lastname": "Thompson",
+        "email": "imiranda@thomas.net",
+        "userpassword": "#6YC^^Ntjt",
+        "dateofbirthday": "2005-12-09",
+        "usercity": "Port Douglas",
+        "userdateregistration": "1982-11-16"
+    },
+    {
+        "userid": 27,
+        "firstname": "Terry Bates",
+        "lastname": "Payne",
+        "email": "morganscott@buckley.com",
+        "userpassword": "3RsMgPSx@Y",
+        "dateofbirthday": "2009-04-07",
+        "usercity": "Lake Troymouth",
+        "userdateregistration": "1971-07-31"
+    },
+    {
+        "userid": 28,
+        "firstname": "Katherine Wade",
+        "lastname": "Scott",
+        "email": "bgriffin@walsh.net",
+        "userpassword": "QA+9NhCvX%",
+        "dateofbirthday": "2006-01-05",
+        "usercity": "Curtisview",
+        "userdateregistration": "1977-12-08"
+    },
+    {
+        "userid": 29,
+        "firstname": "William Rivera",
+        "lastname": "Cain",
+        "email": "rhonda41@hotmail.com",
+        "userpassword": "@dE9Gpu7E5",
+        "dateofbirthday": "1996-02-03",
+        "usercity": "London",
+        "userdateregistration": "1978-09-29"
+    },
+    {
+        "userid": 30,
+        "firstname": "Michael Burns",
+        "lastname": "Shields",
+        "email": "samanthacameron@gmail.com",
+        "userpassword": "g6A)ppbd(m",
+        "dateofbirthday": "2005-11-27",
+        "usercity": "New Andreaburgh",
+        "userdateregistration": "1984-01-23"
+    },
+    {
+        "userid": 1,
+        "firstname": "Daniel Thomas",
+        "lastname": "Roberson",
+        "email": "collinsangela@peters.com",
+        "userpassword": "(tna2OsHV&",
+        "dateofbirthday": "2004-08-14",
+        "usercity": "London",
+        "userdateregistration": "1999-04-08"
+    },
+    {
+        "userid": 5,
+        "firstname": "James Craig",
+        "lastname": "Day",
+        "email": "williamburns@mcintosh.com",
+        "userpassword": "+47bAfGyx*",
+        "dateofbirthday": "2010-05-18",
+        "usercity": "London",
+        "userdateregistration": "2018-01-28"
+    },
+    {
+        "userid": 10,
+        "firstname": "Tracy Thompson",
+        "lastname": "Wells",
+        "email": "chernandez@stafford-montes.com",
+        "userpassword": "^$BLuUWnu1",
+        "dateofbirthday": "1971-12-14",
+        "usercity": "London",
+        "userdateregistration": "1990-10-26"
+    },
+    {
+        "userid": 15,
+        "firstname": "Arthur Dennis",
+        "lastname": "Burke",
+        "email": "angela28@lawrence-nguyen.com",
+        "userpassword": "F_z1Kr3sN0",
+        "dateofbirthday": "2001-03-15",
+        "usercity": "London",
+        "userdateregistration": "1985-11-30"
+    },
+    {
+        "userid": 20,
+        "firstname": "Melissa Nguyen",
+        "lastname": "Landry",
+        "email": "amy41@jones.org",
+        "userpassword": "xigRVGib%9",
+        "dateofbirthday": "1971-07-13",
+        "usercity": "London",
+        "userdateregistration": "1984-02-11"
+    },
+    {
+        "userid": 25,
+        "firstname": "William Rivera",
+        "lastname": "Cain",
+        "email": "rhonda41@hotmail.com",
+        "userpassword": "@dE9Gpu7E5",
+        "dateofbirthday": "1996-02-03",
+        "usercity": "London",
+        "userdateregistration": "1978-09-29"
+    },
+    {
+        "userid": 31,
+        "firstname": "William Rivera",
+        "lastname": "Cain",
+        "email": "rhonda41@hotmail.com",
+        "userpassword": "@dE9Gpu7E5",
+        "dateofbirthday": "1996-02-03",
+        "usercity": "London",
+        "userdateregistration": "1978-09-29"
+    }
+]
